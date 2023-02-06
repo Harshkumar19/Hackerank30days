@@ -1,2 +1,2 @@
 Hello Everyone!
-I'll be posting all the solutions of my 30 days code challenge on Hackerrank!
+Solutions of the 30 days code challenge on Hackerrank!
